@@ -1,0 +1,7 @@
+{
+  "name": "Ecclesia Manager Pro",
+  "description": "A modern, advanced Church Management System for administrators featuring member tracking, finance management, and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
